@@ -5,4 +5,10 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="sholat_tracker">Sholat tracker</string>
+    <string name="tahfidz">Tahfidz</string>
+    <string name="tilawah">Tilawah</string>
+    <string name="murajaah">Murajaah</string>
+    <string name="shaum">Shaum</string>
+    <string name="custom_tracker">Custom Tracker</string>
 </resources>

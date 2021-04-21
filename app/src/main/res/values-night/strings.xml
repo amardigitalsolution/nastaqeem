@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="name_company">Designed by Amar Digital Solutions</string>
+    <string name="tilawah">Tilawah</string>
+    <string name="murajaah">Murajaah</string>
+    <string name="shaum">Shaum</string>
+    <string name="custom_tracker">Custom Tracker</string>
 </resources>
