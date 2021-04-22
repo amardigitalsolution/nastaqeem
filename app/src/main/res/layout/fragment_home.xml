@@ -14,7 +14,7 @@
         app:columnCount="3"
         app:rowCount="3"
         app:orientation="horizontal"
-        tools:context=".ui.home.HomeFragment">
+        tools:context=".fragments.HomeFragment">
         <FrameLayout
             app:layout_columnWeight="1"
             app:layout_rowWeight="1">

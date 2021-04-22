@@ -4,10 +4,20 @@
     <item
         android:id="@+id/navigation_home"
         android:icon="@android:drawable/ic_menu_recent_history"
-        android:title="Home" />
+        android:title="Beranda" />
     <item
-        android:id="@+id/navigation_evaluasi"
+        android:id="@+id/navigation_jurnal"
         android:icon="@android:drawable/ic_menu_recent_history"
-        android:title="Evaluasi" />
+        android:title="Jurnal" />
+
+    <item
+        android:id="@+id/navigation_quran"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="Alquran" />
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="Lainya" />
 
 </menu>
